@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace ComicBookGallery.Controllers
 {
-    public class ComicBooksGallery : Controller
+    public class ComicBooksController : Controller
     {
         public string Detail()
         {
